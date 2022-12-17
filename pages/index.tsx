@@ -16,10 +16,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <header>
-          <Header />
+        <Header />
+        <div className='max-w-6xl mx-auto'>
           <HomePage />
-        </header>
+        </div>
       </main>
     </>
   )
