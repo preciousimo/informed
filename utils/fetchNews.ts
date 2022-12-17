@@ -10,4 +10,6 @@ const fetchNews = async (
     // Sort function by images vs not images present
 
     // return result
-}
+};
+
+export default fetchNews;
